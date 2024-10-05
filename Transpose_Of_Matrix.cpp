@@ -36,4 +36,17 @@ for(int i = 0;i<3;i++)
 
     return 0;
 }
+/*
+ **output**
+Enter number of rows: 2
+Enter number of columns: 2
+Enter element at position (1, 1): 3
+Enter element at position (1, 2): 4
+Enter element at position (2, 1): 5
+Enter element at position (2, 2): 6
 
+The Tranpose of matrix is:
+3 5 -1
+4 6 -1
+5 -1 0
+*/
