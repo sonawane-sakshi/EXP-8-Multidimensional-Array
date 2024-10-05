@@ -54,3 +54,28 @@ int main() {
     }  
     return 0;
 }
+/*
+**output**
+Enter number of rows of first matrix:
+2
+Enter number of columns of first matrix:
+2
+Enter number of rows of second matrix:
+2
+Enter number of columns of second matrix:
+2
+Enter elements of the first matrix:
+Element at (1, 1): 4
+Element at (1, 2): 3
+Element at (2, 1): 6
+Element at (2, 2): 2
+Enter elements of the second matrix:
+Element at (1, 1): 1
+Element at (1, 2): 2
+Element at (2, 1): 3
+Element at (2, 2): 4
+The resultant matrix after multiplication is:
+13 20
+12 20
+*/
+    
